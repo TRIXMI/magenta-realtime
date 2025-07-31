@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ALIEN HOUSE MUSIC" type="ShConfigurationType" singleton="false">
+    <option name="SCRIPT_TEXT" value="" />
+    <option name="INDEPENDENT_SCRIPT_PATH" value="false" />
+    <option name="SCRIPT_PATH" value="$PROJECT_DIR$/../../../../install_tools.bat" />
+    <option name="SCRIPT_OPTIONS" value="C:\Users\colin\OneDrive\Desktop\Docker Desktop.lnk" />
+    <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+    <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="INDEPENDENT_INTERPRETER_PATH" value="false" />
+    <option name="INTERPRETER_PATH" value="$PROJECT_DIR$/../../../../Python313/python.exe" />
+    <option name="INTERPRETER_OPTIONS" value="C:\Users\colin\OneDrive\Desktop\Hello Magenta.ipynb - Colab.lnk" />
+    <option name="EXECUTE_IN_TERMINAL" value="true" />
+    <option name="EXECUTE_SCRIPT_FILE" value="true" />
+    <envs>
+      <env name="FPS_BROWSER_USERPROFILE_S..." value="" />
+      <env name="FPS_BROWSER_USER_PROFILE_STRING" value="DefaultV" />
+    </envs>
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="file://$USER_HOME$/Downloads/Windows _ Docker Docs.html" />
+    </method>
+  </configuration>
+</component>
