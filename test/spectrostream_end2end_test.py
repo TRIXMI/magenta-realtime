@@ -13,7 +13,7 @@
 # limitations under the License.
 # ==============================================================================
 
-0from absl.testing import absltest
+
 import numpy as np
 import tensorflow as tf
 
