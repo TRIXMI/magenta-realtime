@@ -17,6 +17,7 @@
     </envs>
     <method v="2">
       <option name="LaunchBrowser.Before.Run" url="file://$USER_HOME$/Downloads/Windows _ Docker Docs.html" />
+      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_ALIEN HOUSE MUSIC" />
     </method>
   </configuration>
 </component>
