@@ -1,16 +1,15 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="true" type="PythonConfigurationType" factoryName="Python">
     <module name="magenta-realtime" />
-    <option name="ENV_FILES" value="$PROJECT_DIR$/alien-house-music-112.ipynb" />
+    <option name="ENV_FILES" value="$PROJECT_DIR$/alien-house-music-112.ipynb;$PROJECT_DIR$/../../../../Python313/python.exe" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
     <envs>
       <env name="PYTHONUNBUFFERED" value="1" />
     </envs>
     <option name="SDK_HOME" value="" />
-    <option name="SDK_NAME" value="Python 3.13" />
     <option name="WORKING_DIRECTORY" value="$AffectedModuleNames$" />
-    <option name="IS_MODULE_SDK" value="false" />
+    <option name="IS_MODULE_SDK" value="true" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
     <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Python313/python.exe" />
